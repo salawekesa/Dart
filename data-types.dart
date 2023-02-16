@@ -39,7 +39,7 @@ void main() {
   print(name.replaceAll('a', 'e'));
   print(name.split('e'));
   print(name.contains('h'));
-  print(name.indexOf('a')); //shows the 1st index value of the instance
+  print(name.indexOf('a')); //shows 1st index value of the instance
 
   //USERNAME EXTRACTOR FROM EMAIL
   var email = "salawekesa@gmail.com";

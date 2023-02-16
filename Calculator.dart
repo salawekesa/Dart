@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   print("-------------------------------------");
-  print("****** SALATHIEL CALCULATOR ********");
+  print("******* SALATHIEL CALCULATOR ********");
   print("-------------------------------------");
 
   print("Enter the first number: ");

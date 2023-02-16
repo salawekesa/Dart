@@ -9,7 +9,7 @@ void welcome(String uname, int age) {
 
 void main() {
   print("Enter name: ");
-  String uname = stdin.readLineSync()!;
+  String uname = stdin.readLineSync()!; //input
   print("Enter age: ");
   int age = int.parse(stdin.readLineSync()!);
   welcome(uname, age);

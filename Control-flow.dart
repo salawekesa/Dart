@@ -2,7 +2,7 @@ import 'dart:io';
 
 // Dart Control Flow Assignment
 
-// Create a Dart program that prompts the user for a number and then prints a
+// Create Dart program that prompts the user for a number and then prints a
 // message to the console based on the following criteria:
 
 // If the number is greater than 10, print "Your number is greater than 10"

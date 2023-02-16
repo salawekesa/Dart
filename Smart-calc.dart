@@ -14,7 +14,7 @@ String operation() {
 
 void main() {
   print("-------------------------------------");
-  print("****** SALATHIEL CALCULATOR ********");
+  print("******* SALATHIEL CALCULATOR ********");
   print("-------------------------------------");
 
   double num1 = Inputs();

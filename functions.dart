@@ -6,7 +6,7 @@ void pyramid() {
   print("/__|");
 }
 
-//void main is the entry point
+//void main is the entry point of dart
 void main() {
   print("hello"); //printed before fxn
   pyramid();

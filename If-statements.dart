@@ -11,7 +11,7 @@ void main() {
 
 //OPERATAORS -> LOGICS
 // &&(AND) ->both true
-// ||(OR)) -> Either oof the options or both
+// ||(OR)) -> Either of the options or both
 
 bool midfielder = true;
 bool striker = false;
